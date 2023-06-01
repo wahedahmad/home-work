@@ -1,0 +1,10 @@
+C:\Users\Ali Sina\Desktop\C-Sharp-main\Week-01\Project-1\obj\Debug\Project_01.csprojAssemblyReference.cache
+C:\Users\Ali Sina\Desktop\C-Sharp-main\Week-01\Project-1\obj\Debug\Project_1.Form1.resources
+C:\Users\Ali Sina\Desktop\C-Sharp-main\Week-01\Project-1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\Ali Sina\Desktop\C-Sharp-main\Week-01\Project-1\obj\Debug\Project_01.csproj.GenerateResource.cache
+C:\Users\Ali Sina\Desktop\C-Sharp-main\Week-01\Project-1\obj\Debug\Project_01.csproj.CoreCompileInputs.cache
+C:\Users\Ali Sina\Desktop\C-Sharp-main\Week-01\Project-1\obj\Debug\Project-1.exe
+C:\Users\Ali Sina\Desktop\C-Sharp-main\Week-01\Project-1\obj\Debug\Project-1.pdb
+C:\Users\Ahmadi\Desktop\C-Sharp-main\Week-01\Project-1\bin\Debug\Project-1.exe.config
+C:\Users\Ahmadi\Desktop\C-Sharp-main\Week-01\Project-1\obj\Debug\Project-1.exe
+C:\Users\Ahmadi\Desktop\C-Sharp-main\Week-01\Project-1\obj\Debug\Project-1.pdb
