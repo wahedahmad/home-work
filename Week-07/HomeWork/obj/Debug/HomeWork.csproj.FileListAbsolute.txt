@@ -1,0 +1,14 @@
+E:\C_Shrapp\Week-07\HomeWork\bin\Debug\HomeWork.exe.config
+E:\C_Shrapp\Week-07\HomeWork\bin\Debug\HomeWork.exe
+E:\C_Shrapp\Week-07\HomeWork\bin\Debug\HomeWork.pdb
+E:\C_Shrapp\Week-07\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+E:\C_Shrapp\Week-07\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+E:\C_Shrapp\Week-07\HomeWork\obj\Debug\HomeWork.exe
+E:\C_Shrapp\Week-07\HomeWork\obj\Debug\HomeWork.pdb
+C:\Users\M.Aslani\Desktop\C-Sharp-main\Week-07\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\M.Aslani\Desktop\C-Sharp-main\Week-07\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\M.Aslani\Desktop\C-Sharp-main\Week-07\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\M.Aslani\Desktop\C-Sharp-main\Week-07\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+C:\Users\M.Aslani\Desktop\C-Sharp-main\Week-07\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\M.Aslani\Desktop\C-Sharp-main\Week-07\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\M.Aslani\Desktop\C-Sharp-main\Week-07\HomeWork\obj\Debug\HomeWork.pdb
